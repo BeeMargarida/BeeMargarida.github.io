@@ -24,7 +24,7 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 # Education
 
 #### <span class="title-intro">></span> Masters Degree in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL) [2015 - 2020]
-* **Dissertation in Orchestration for Automatic Decentralizationin Visually-defined IoT**: Development of a prototype, extending from Node-RED, that enables the automatic decentralization of an IoT system.The devices in the network communicate their computational capabilities to the orchestrator, which is responsible for automatically partition the computation and sending the generated tasks to the devices, leveraging their computational power. [Thesis](https://repositorio-aberto.up.pt/handle/10216/128520) and [code](https://github.com/BeeMargarida/node-red).
+* **Dissertation in Orchestration for Automatic Decentralization in Visually-defined IoT**: Development of a prototype, extending from Node-RED, that enables the automatic decentralization of an IoT system. The devices in the network communicate their computational capabilities to the orchestrator, which is responsible for automatically partitioning the computation and sending the generated tasks to the devices, leveraging their computational power. [Thesis](https://repositorio-aberto.up.pt/handle/10216/128520) and [code](https://github.com/BeeMargarida/node-red).
 
 <!-- # Projects -->
 
