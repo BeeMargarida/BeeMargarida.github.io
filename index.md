@@ -30,7 +30,7 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 
 ## Publications
 
-#### <span class="title-intro">></span> **Visually-defined Real-Time Orchestration of IoT Systems** - [doi/10.1145/3448891.3448938](https://dl.acm.org/doi/10.1145/3448891.3448938) [EAI MobiQuitous 2020]
+#### <span class="title-intro">></span> **Visually-defined Real-Time Orchestration of IoT Systems** - [10.1145/3448891.3448938](https://dl.acm.org/doi/10.1145/3448891.3448938) [EAI MobiQuitous 2020]
 By Margarida Silva, João Pedro Dias, André Restivo and Hugo Sereno Ferreira
 
 #### <span class="title-intro">></span> **A Review on Visual Programming for Distributed Computation in IoT** - [10.1007/978-3-030-77970-2_34](https://link.springer.com/chapter/10.1007%2F978-3-030-77970-2_34) [ICCS 2021]
