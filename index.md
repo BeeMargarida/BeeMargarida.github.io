@@ -12,7 +12,7 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 
 # Work
 
-#### <span class="title-intro">></span> **Junior Software Engineer** @ [Platforme](https://platforme.com/) [September 2020 - Present]
+#### <span class="title-intro">></span> **Software Engineer** @ [Platforme](https://platforme.com/) [September 2020 - Present]
 * Full-stack work in both core services and client-facing interfaces. Used Python, NodeJS, TypeScript, VueJS, ReactJS and others.
 
 #### <span class="title-intro">></span> **Software Engineer Trainee** @ [Platforme](https://platforme.com/) [October 2019 - September 2020]
