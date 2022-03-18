@@ -8,7 +8,7 @@ description: ""
 
 <img class="profile-picture" src="../images/photo.jpg" alt="Profile picture">
 
-My name is Ana Margarida Silva and I am a software engineer. I don't have any preference on which side of the stack to work on, and I'm always willing to learn new things. Currently I'm learning Rust and exploring the world of Internet of Things.
+My name is Ana Margarida Silva and I am a software engineer. I don't have any preference on which side of the stack I work on, and I'm always willing to learn new things. Currently I'm learning Rust, exploring Svelte and tinkering with some ESP32s.
 
 # Work
 
