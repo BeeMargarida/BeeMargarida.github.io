@@ -8,7 +8,7 @@ description: ""
 
 <img class="profile-picture" src="../images/photo.jpg" alt="Profile picture">
 
-My name is Ana Margarida Silva and I am a software engineer. I don't have any preference on which side of the stack I work on, and I'm always willing to learn new things. Currently I'm learning Rust, exploring Svelte and tinkering with some ESP32s.
+My name is Ana Margarida Silva and I am a software engineer. I don't have any preference on which side of the stack I work on, and I'm always willing to learn new things. Currently I'm learning Rust, exploring Svelte and V and tinkering with some ESP32s.
 
 # Work
 
@@ -20,6 +20,11 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 
 #### <span class="title-intro">></span> **Summer Internship** @ [Blip](https://blip.pt/) [July 2018 - September 2018]
 * Development of a testing and inspection tool for serialized content in Apache Kafka topics. Blog post of the experience [here](https://ppb.technology/2018/09/18/a-summer-internship-at-paddypowerbetfair/).
+
+# Projects
+
+#### <span class="title-intro">></span> Contributor for [SvelteUI](https://www.svelteui.org/) library
+* Maintainer and contributor for a Svelte component and utility library
 
 # Education
 
