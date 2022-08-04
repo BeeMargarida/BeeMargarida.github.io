@@ -8,11 +8,12 @@ description: ""
 
 <img class="profile-picture" src="../images/photo.jpg" alt="Profile picture">
 
-My name is Ana Margarida Silva and I am a software engineer. I don't have any preference on which side of the stack I work on, and I'm always willing to learn new things. Currently I'm learning Rust, exploring Svelte and Zig and tinkering with some ESP32s.
+My name is Ana Margarida Silva and I am a software engineer. I don't have any preference on which side of the stack I work on and I'm always willing to learn new things. Currently I'm learning Rust, exploring Svelte, tinkering with some ESP32s and contributing to some awesome open-source projects.
 
 # Work
 
 #### <span class="title-intro">></span> **Software Engineer** @ [Replai](https://www.replai.io/) [July 2022 - Present]
+* Full-stack work on a fast paced startup which product is a video intelligence platform that uses computer-vision AI to tag creatives at scale and help app developers understand what are the key drivers or detractors of performance of their video creatives. Using Typescript and React.
 
 #### <span class="title-intro">></span> **Software Engineer** @ [Platforme](https://platforme.com/) [September 2020 - June 2022]
 * Full-stack work in both core services and client-facing interfaces. Used Python, NodeJS, TypeScript, VueJS, ReactJS and others.
@@ -25,8 +26,8 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 
 # Projects
 
-#### <span class="title-intro">></span> Contributor for [SvelteUI](https://www.svelteui.org/) library
-* Maintainer and contributor for a Svelte component and utility library
+#### <span class="title-intro">></span> Contributor of [SvelteUI](https://www.svelteui.org/) library
+* Maintainer and contributor of a Svelte component and utility library
 
 # Education
 
