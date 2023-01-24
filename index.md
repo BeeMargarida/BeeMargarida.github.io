@@ -16,7 +16,7 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 * Full-stack work on a fast paced startup whose product is a video intelligence platform that uses computer-vision AI to tag creatives at scale and help app developers understand what are the key drivers or detractors of performance of their video creatives. Technologies used are Typescript, NodeJS, React and PostgreSQL.
 
 #### <span class="title-intro">></span> **Software Engineer** @ [Platforme](https://platforme.com/) [September 2020 - June 2022]
-* Full-stack work in both core services and client-facing interfaces. Used Python, NodeJS, TypeScript, VueJS, ReactJS and others.
+* Worked on a startup that used 3D models to power their made-to-order pipeline. The products worked on ranged from a web and mobile app for customizing 3D models (VueJS/React Native), a mobile application to follow and update the order’s status on the factory floor (React Native), the backend to power all of this (Python and NodeJS) and micro-services that complimented with additional functionality (NodeJS, Apache Kafka, Typescript). In addition to this, also developed SDKs to integrate with the platform.
 
 #### <span class="title-intro">></span> **Software Engineer Trainee** @ [Platforme](https://platforme.com/) [October 2019 - September 2020]
 * Worked part-time in several projects, including backend and core services as well as frontend in several products that interface with clients.
