@@ -26,7 +26,7 @@ My name is Ana Margarida Silva and I am a software engineer. I don't have any pr
 
 # Projects
 
-#### <span class="title-intro">></span> Contributor of [SvelteUI](https://www.svelteui.org/) library
+#### <span class="title-intro">></span> Maintainer and contributor of [SvelteUI](https://www.svelteui.org/) library
 * Maintainer and contributor of a Svelte component and utility library
 
 # Education
