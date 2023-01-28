@@ -5,6 +5,8 @@
 	projects.
 </p>
 
+<a href="/cv.pdf" download>CV PDF</a>
+
 <h2>Work</h2>
 <ul>
 	<li>
@@ -70,7 +72,7 @@
 	a prototype, extending from Node-RED, that enables the automatic decentralization of an IoT system.
 	The devices in the network communicate their computational capabilities to the orchestrator, which
 	is responsible for automatically partitioning the computation and sending the generated tasks to the
-	devices, leveraging their computational power. <a
+	devices, leveraging their computational power.<a
 		href="https://repositorio-aberto.up.pt/handle/10216/128520"
 		target="_blank"
 		rel="noreferrer">Thesis</a

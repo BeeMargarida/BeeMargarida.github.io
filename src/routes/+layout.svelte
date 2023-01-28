@@ -36,11 +36,6 @@
 		height: 100%;
 	}
 
-	.footer {
-		padding: 1rem;
-		height: 20px;
-	}
-
 	:global(a) {
 		color: #e02828;
 		text-decoration: none;
