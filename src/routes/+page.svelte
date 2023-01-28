@@ -3,7 +3,7 @@
 
 <p>
 	Hi, I'm Margarida, a software developer. I like to code, learn and do stuff. Hit me up if you have
-	a stupid idea that you would like to see convert to code.
+	a stupid idea that you would like to see converted to code. Graphic design is not my passion.
 </p>
 
 <h3>What I've been up to</h3>
