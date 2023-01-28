@@ -9,6 +9,10 @@
 	</div>
 </div>
 
+<svelte:head>
+	<title>Margarida Silva</title>
+</svelte:head>
+
 <style>
 	@font-face {
 		font-family: 'SourceCodePro';
