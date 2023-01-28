@@ -1,4 +1,4 @@
-import{S as z,i as O,s as Q,k as l,q as f,a as N,l as n,m as r,r as c,h as a,c as V,n as i,b as I,D as e,B}from"../../chunks/index-33c97c4f.js";function R(D){let p,k,g,v,E,S,o,b,s,x,A,y,u,H,G,w,d,K,M,_,j;return{c(){p=l("p"),k=f(`Hi, I'm Margarida, a software developer. I like to code, learn and do stuff. Hit me up if you have
+import{S as z,i as O,s as Q,k as l,q as f,a as N,l as n,m as r,r as c,h as a,c as V,n as i,b as I,D as e,B}from"../../chunks/index-43373e4b.js";function R(D){let p,k,g,v,E,S,o,b,s,x,A,y,u,H,G,w,d,K,M,_,j;return{c(){p=l("p"),k=f(`Hi, I'm Margarida, a software developer. I like to code, learn and do stuff. Hit me up if you have
 	a stupid idea that you would like to see convert to code.`),g=N(),v=l("h3"),E=f("What I've been up to"),S=N(),o=l("ul"),b=l("li"),s=l("a"),x=f("SvelteUI"),A=f(`
 	Component and utility library for Svelte and SvelteKit. I'm one of the maintainers, it's still beta,
 	but it's been really cool developing with a community of people giving feedback and using it.
