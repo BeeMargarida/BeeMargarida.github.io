@@ -9,7 +9,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		appDir: 'internal',
+		appDir: 'internal'
 	}
 };
 

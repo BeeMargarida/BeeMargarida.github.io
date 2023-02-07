@@ -11,11 +11,19 @@
 <ul>
 	<li>
 		Software Engineer @ <a
+			href="https://www.callstack.com/"
+			target="_blank"
+			rel="noreferrer"
+			class="highlight">Callstack</a
+		> [February 2023 - Present]
+	</li>
+	<li>
+		Software Engineer @ <a
 			href="https://replai.io"
 			target="_blank"
 			rel="noreferrer"
 			class="highlight">Replai</a
-		> [July 2022 - Present]
+		> [July 2022 - December 2022]
 	</li>
 	Full-stack work on a fast paced startup whose product is a video intelligence platform that uses computer-vision
 	AI to tag creatives at scale and help app developers understand what are the key drivers or detractors
