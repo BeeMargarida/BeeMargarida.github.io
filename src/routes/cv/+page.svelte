@@ -11,11 +11,19 @@
 <ul>
 	<li>
 		Software Engineer @ <a
+			href="https://www.okrasolar.com/"
+			target="_blank"
+			rel="noreferrer"
+			class="highlight">Okra Solar</a
+		> [October 2023 - Present]
+	</li>
+	<li>
+		Software Engineer @ <a
 			href="https://www.callstack.com/"
 			target="_blank"
 			rel="noreferrer"
 			class="highlight">Callstack</a
-		> [February 2023 - Present]
+		> [February 2023 - October 2023]
 	</li>
 	<li>
 		Software Engineer @ <a
